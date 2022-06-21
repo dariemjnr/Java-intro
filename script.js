@@ -1,0 +1,5 @@
+document.write("My name is Naandam Dariem")
+document.write("<br>")
+document.write("I am from Nigeria")
+document.write("<br>")
+document.write("I am 5 feet, 8 inches")
